@@ -1,0 +1,5 @@
+COLUMN TABLE "MY_SECOND_PROJECT.FBModule.src.data::dims" 
+(
+   "ID" INTEGER, 
+   "TEAM" VARCHAR(50)
+)
